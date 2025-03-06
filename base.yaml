@@ -179,7 +179,7 @@ binary_sensor:
 #    on_press:
 #      - light.toggle: ${id_prefix}_light
 
-script:
+# script:
 #  - id: "${id_prefix}_dry_contact_door_control"
 #    then:
 #      - delay: 0.1s
